@@ -31,7 +31,7 @@
   "homepage": "https://github.com/ionic-team/ionic-site",
   "dependencies": {
     "@stencil/core": "0.11.3",
-    "@stencil/sass": "0.1.0",
+    "@stencil/sass": "0.2.0",
     "@stencil/utils": "latest",
     "angular": "1.6.8",
     "angular-animate": "1.6.8",
@@ -66,7 +66,7 @@
     "gulp-rename": "^1.2.0",
     "gulp-sass": "^4.0.1",
     "gulp-shell": "^0.6.5",
-    "gulp-sitemap": "^5.1.0",
+    "gulp-sitemap": "^6.0.0",
     "gulp-size": "^1.0.0",
     "gulp-sourcemaps": "^2.6.3",
     "gulp-uglify": "^2.0.0",
