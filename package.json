@@ -39,7 +39,7 @@
     "angular-sanitize": "1.6.8",
     "body-parser": "^1.18.2",
     "bootstrap": "3.3.5",
-    "browser-sync": "^2.24.4",
+    "browser-sync": "^3.0.0",
     "c3": "^0.5.2",
     "compression": "^1.7.1",
     "cookie-parser": "^1.4.3",
@@ -88,7 +88,7 @@
     "run-sequence": "^1.2.2",
     "sendgrid": "^5.1.0",
     "tiny-lr": "1.0.5",
-    "twilio": "^3.11.0",
+    "twilio": "^4.19.3",
     "twitter": "^1.7.1",
     "typed.js": "^2.0.6"
   },
